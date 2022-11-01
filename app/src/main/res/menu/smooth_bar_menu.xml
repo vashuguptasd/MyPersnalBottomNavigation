@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/firstFragment"
+        android:icon="@drawable/pyq_new"
+        android:title="@string/pyq" />
+    <item
+        android:id="@+id/secondFragment"
+        android:icon="@drawable/notes_new"
+        android:title="@string/notes" />
+    <item
+        android:id="@+id/thirdFragment"
+        android:icon="@drawable/community_new"
+        android:title="@string/community" />
+    <item
+        android:id="@+id/fourthFragment"
+        android:icon="@drawable/settings_new"
+        android:title="@string/settings" />
+
+</menu>
